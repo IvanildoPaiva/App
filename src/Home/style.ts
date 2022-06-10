@@ -4,7 +4,6 @@ export const Container = styled.View`
   position: absolute;
   width: 100%;
   height: 653px;
-  /* left: 23.04px; */
   top: 32.04px;
 
   background: #ffffff;
